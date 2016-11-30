@@ -1,0 +1,69 @@
+#header{
+	height: 100px;
+	right: 0px;
+}
+
+#menu{
+	position:  absolute;
+	right: 10px;
+	width: ;
+	color: black;
+
+}
+
+.menu-item{
+	display: inline-block;
+	width: 80px;
+	text-align: center;
+	padding:  15px
+}
+
+#body{
+	text-align: center;
+}
+
+#google-logo{
+
+}
+
+#search-wrapper{
+	margin: 25px;
+	padding: 10px;
+	position: relative;
+	margin: auto;
+
+}
+
+#search-wrapper input{
+	width: 600px;
+}
+
+#button-holder{
+
+}
+
+#footer{
+	height:  20px;
+	width: 100%;
+	position: absolute;
+	/* Give the element absolute positioning so we can get it to the bottom */
+	bottom: 0px;
+	background-color: lightgrey;
+
+
+}
+
+#left-footer{
+	position:  absolute;
+	height:  20px;
+	color: black;
+
+}
+
+#right-footer{
+	position: absolute;
+	height: 20px;
+	right:  20px;
+	color: black;
+
+}
